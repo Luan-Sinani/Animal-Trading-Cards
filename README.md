@@ -12,5 +12,5 @@ Key Takeaways :
 ____________________________________
 
 # MY-JOURNEY-as-full-stack-dev
-this is my all my work in my journey  
+this is all my work in my journey  
 ![alt text](https://github.com/Luan-Sinani/Animal-Trading-Cards)
