@@ -10,7 +10,10 @@ body {
 
 img {
   width: 300px;
+  border : 2px solid grey;
+  padding: 1px;
 }
+
 .animal-info {
   font-style: italic ;
   border : 2px solid grey;
@@ -21,4 +24,5 @@ li {
   list-style: none;
 }
 
-span { font-weight:bold; }
+span {
+   font-weight:bold; }
